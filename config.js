@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Em yêu Nhatminh của em lắm ♥️🥺 xem tiếp nè',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    Mà sao anh cứ đi nhầm đường
+    Lạc vào tim em lẻ loi
+    Đằng sau chữ yêu đây là thương',
+    btnIntro: 'iloveuuu',
+    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Yêu vợ anh nhiều lắm <33',
+    btnNo: 'Thương bae của anh lắm :3',
+    question:'Trên thế giới có hơn 7 tỉ người mà sao anh lại yêu em🥺 <3',
+    btnReply: 'Gửi cho em nè  <3',
+    reply: 'Bởi vì vợ anh quá tuyệt vời =)))) Mãi đỉnh trong lòng anh 🥰',
+    mess: 'Em biết ngay anh chồng sẽ nói thế mò 🥰. Yêu anh nhiều lắm 🥺😘',
+    messDesc: 'Em tính làm thứ này cho anh nè, yêu anh lắm 🥺.',
+    btnAccept: '🥺♥️ cute quá',
 }
